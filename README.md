@@ -1,4 +1,8 @@
-<!-- Replace YOUR_GITHUB_USERNAME with your GitHub username -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jattu8602/jattu8602/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jattu8602/jattu8602/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jattu8602/jattu8602/output/pacman-contribution-graph.svg">
+</picture><!-- Replace YOUR_GITHUB_USERNAME with your GitHub username -->
 
 <div align="center">
 
@@ -27,6 +31,8 @@
 🌱 Currently learning and improving my skills in **full-stack development, embedded systems, and machine learning**.
 
 🎯 I like turning ideas into practical projects and learning by building.
+
+
 
 ---
 
@@ -110,6 +116,7 @@ A project concept for monitoring electricity use and estimating future bills usi
 ---
 
 <div align="center">
+
 
 ### ✨ “Build, learn, improve, repeat.” ✨
 

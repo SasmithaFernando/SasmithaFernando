@@ -6,7 +6,7 @@
 
 <div align="center">
 
-# 👋 Hi, I'm G S R P Fernando
+# 👋 Hi, I'm Sasmitha Fernando
 
 ### Electronics & Computer Science Undergraduate | University of Kelaniya, Sri Lanka
 
